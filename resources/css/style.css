@@ -31,7 +31,7 @@ p {
 
 #header, #middle {
   color: white;
-  background-image: url("file:///C:/cygwin64/home/Luis%20Alberto/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("./resources/images/the-flatiron-building.png");
   background-position: center;
 }
 
