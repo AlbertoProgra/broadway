@@ -1,0 +1,46 @@
+a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h4 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
+}
+
+#header h1 {
+  font-size: 70px;
+}
+
+#middle, h3 {
+  font-size: 32px;
+}
+
+#header h1, #middle h3, h4 {
+  font-weight: bold;
+}
+
+#header, #middle {
+  color: white;
+  background-image: url("file:///C:/cygwin64/home/Luis%20Alberto/broadway/resources/images/the-flatiron-building.png");
+  background-position: center;
+}
+
+#footer {
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+#footer .copy {
+  font-size: 11px;
+}
